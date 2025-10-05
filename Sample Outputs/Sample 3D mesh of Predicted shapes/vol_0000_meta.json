@@ -1,0 +1,24 @@
+{
+  "instance_id": 0,
+  "source_instance": "inst_0000",
+  "volume_shape_zyx": [
+    23,
+    30,
+    55
+  ],
+  "voxel_size_xy_um": 0.03225,
+  "voxel_size_z_um": 0.03225,
+  "offset_xy_global_px": [
+    1329,
+    -5
+  ],
+  "z_min_um": -0.3414556434884965,
+  "z_max_um": 0.3414556434884965,
+  "z0_index": 11,
+  "pca_axis_used": "major",
+  "pca_explained_variance": [
+    144.00250462629256,
+    23.92559133125632
+  ],
+  "source_image": "WT_THY_HADA_NADA_TADA_40min_ROI2_SIM-1.jpg"
+}
