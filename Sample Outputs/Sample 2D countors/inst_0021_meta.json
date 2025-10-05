@@ -1,0 +1,19 @@
+{
+  "instance_id": 21,
+  "bbox": [
+    1893,
+    628,
+    43,
+    42
+  ],
+  "image_shape": [
+    2560,
+    2560
+  ],
+  "area_px": 1246,
+  "centroid_xy": [
+    1912.9197431781702,
+    649.42455858748
+  ],
+  "source_image": "WT_THY_HADA_NADA_TADA_40min_ROI2_SIM-1.jpg"
+}
