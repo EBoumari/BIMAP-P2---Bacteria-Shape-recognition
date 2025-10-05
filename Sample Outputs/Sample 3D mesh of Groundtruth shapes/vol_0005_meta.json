@@ -1,0 +1,20 @@
+{
+  "instance_id": 5,
+  "source_instance": "RoiSet13",
+  "volume_shape_zyx": [
+    40,
+    49,
+    101
+  ],
+  "voxel_size_xy_um": 0.03224206349206349,
+  "voxel_size_z_um": 0.1259387755102041,
+  "offset_xy_global_px": [
+    1012,
+    2061
+  ],
+  "z_min_um": -1.5742346938775513,
+  "z_max_um": 3.463316326530613,
+  "z0_index": 12,
+  "source_image": "WT_THY_HADA_NADA_TADA_40min_ROI2_SIM.czi",
+  "is_gt": true
+}
